@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first website, a food recipe website aiming to learn the foundation of html and git.
