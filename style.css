@@ -1,0 +1,22 @@
+body{
+    background-color: #FF3D00;
+}
+h1 {
+    font-family: "Helvetica", serif;
+    font-size: 120px;
+    font-weight: 1000;
+    color: #fffffc;
+}
+
+ul li{
+    font-family: "Helvetica", serif;
+    font-size: 60px;
+    color: #fffffc;
+    list-style: none;
+    font-weight: 700;
+}
+
+ul li a{
+    color: #fffffc;
+    text-decoration: none;
+}
