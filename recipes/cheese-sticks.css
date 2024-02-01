@@ -1,0 +1,27 @@
+body {
+    background-color: #FF3D00;
+}
+h1 {
+    font-family: "Helvetica", serif;
+    font-size: 120px;
+    font-weight: 1000;
+    color: #fffffc;
+}
+h2 {
+    font-family: "Helvetica", serif;
+    font-size: 90px;
+    font-weight: 800;
+    color: #fffffc;
+}
+li{
+    font-family: "Helvetica", serif;
+    font-size: 50px;
+    color: #fffffc;
+    font-weight: 400;
+}
+p{
+    font-family: "Helvetica", serif;
+    font-size: 50px;
+    color: #fffffc;
+    font-weight: 400;
+}
