@@ -1,22 +1,50 @@
-body{
+body {
     background-color: #FF3D00;
 }
+
 h1 {
     font-family: "Helvetica", serif;
     font-size: 120px;
     font-weight: 1000;
     color: #fffffc;
+    margin-left: 32px;
+    text-align: center;
+    margin-top: 0px;
 }
 
-ul li{
+ul li {
     font-family: "Helvetica", serif;
     font-size: 60px;
-    color: #fffffc;
+    color: #FF3D00;
     list-style: none;
     font-weight: 700;
 }
 
-ul li a{
-    color: #fffffc;
+ul li a {
+    color: #FF3D00;
     text-decoration: none;
+}
+
+.mochi {
+    text-align: center;
+    margin: 20px 30px 20px 0px;
+    padding-top: 20px;
+}
+
+.hummus {
+    text-align: center;
+    margin-right: 30px;
+    padding-bottom: 20px;
+}
+.cheese{
+    text-align: center;
+    margin-right: 30px;
+    padding-bottom: 20px;
+}
+
+.list {
+    width: 500px;
+    background-color: #fffffc;
+    margin: 0 auto;
+    border-radius: 20px;
 }
